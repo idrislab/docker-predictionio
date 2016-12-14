@@ -1,2 +1,1 @@
-# docker-predictionio
-PredictionIO Docker
+# PredictionIO Machine Learning Server Docker Image
